@@ -54,5 +54,5 @@ No need to memorize CLI commands — just run the script and navigate through a 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/nordvpn-manager.git
+   git clone https://github.com/sohmee/nordvpn-manager.git
    cd nordvpn-manager
