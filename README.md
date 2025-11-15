@@ -56,3 +56,26 @@ No need to memorize CLI commands — just run the script and navigate through a 
    ```bash
    git clone https://github.com/sohmee/nordvpn-manager.git
    cd nordvpn-manager
+
+   chmod +x nordvpn-manager.sh
+./nordvpn-manager.sh
+
+⚙️ Requirements
+NordVPN CLI installed (nordvpn command available) 👉 NordVPN Linux CLI installation guide
+
+Bash shell environment (Linux/macOS)
+
+Active NordVPN account
+
+🚀 Why Use This Script?
+Simplifies NordVPN CLI usage with a single interactive tool
+
+Saves time by avoiding repetitive commands
+
+Provides a visual overview of your VPN status and settings
+
+📜 License
+This project is licensed under the MIT License. Feel free to use, modify, and share!
+
+🙌 Contributing
+Pull requests are welcome! If you’d like to add new features or improve the script, please fork the repo and submit a PR.
